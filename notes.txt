@@ -1,4 +1,7 @@
- C:\Users\user\Documents\react-js_springboot> npx create-react-app studentfrontend
+In mysql database
+create new schema student
+
+C:\Users\user\Documents\react-js_springboot> npx create-react-app studentfrontend
 
 copy all js files , App.js
  C:\Users\user\Documents\react-js_springboot> cd studentfrontend
