@@ -11,3 +11,6 @@ copy all js files , App.js
 
 npm install
 npm start
+
+in the UI , after adding fields
+refresh it
